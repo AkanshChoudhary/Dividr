@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "166730709592",
+    "project_id": "dividr-53106",
+    "storage_bucket": "dividr-53106.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166730709592:android:4bbb12a13c4ffc564a682d",
+        "android_client_info": {
+          "package_name": "com.money.dividr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166730709592-iac9hblds503v0ggce55edklqgmqcik5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.money.dividr",
+            "certificate_hash": "a088a8b2f043986b85bd10d93c79e932f88dfc0f"
+          }
+        },
+        {
+          "client_id": "166730709592-k0dml7784cauu17hr928lgafovho1cdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.money.dividr",
+            "certificate_hash": "f591529ae52d4cb4c8ca596f7712bd5caf0dd58c"
+          }
+        },
+        {
+          "client_id": "166730709592-1meb925hhjmtcado2uvp0c2370oggae2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3kjygANWqeRgBlALKxhPTrNbIvNHAYLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166730709592-1meb925hhjmtcado2uvp0c2370oggae2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
