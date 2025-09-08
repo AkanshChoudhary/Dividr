@@ -6,6 +6,9 @@ Dividr is a native Android application designed to simplify expense splitting an
 Dividr helps users easily track who paid for what, calculate individual shares (including handling complex splitting scenarios and rounding), and see who owes whom, ensuring everyone gets settled up fairly. 
 The app leverages modern Android development practices and a real-time backend for a seamless user experience.
 
+## App Demo Link
+https://www.youtube.com/watch?v=7xFUjUZsvko
+
 ## Tech Stack
 
 *   **Programming Language:** Kotlin
